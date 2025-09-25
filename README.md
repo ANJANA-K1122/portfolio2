@@ -23,14 +23,13 @@ Welcome to my personal portfolio! This repository contains the code for my profe
 ```text
 portfolio/
 │
-├── index.html          # Main HTML file
-├── style.css           # CSS styles
-├── script.js           # JavaScript (if any)
-├── images/             # Folder containing portfolio images
-└── README.md           # Project documentation
+├── index.html          
+├── style.css           
+├── script.js           
+├── images/             
+└── README.md           
 
-
-
+'''
 
 ## 🌐 Live Demo
 
